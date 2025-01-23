@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "161c5f0cf4658de0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca69ec0032abbf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce0aaa86da62978f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Первые шаги в IT, часть 1. Как я прошел испытательный срок системного администратора.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Первые шаги в IT, часть 1. Как я прошел испытательный срок системного администратора"
+            }
+          },
+          {
+            "id": "9e22d4a1b0235872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7ffae790377ea23",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1b947bbf40fb240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98898b6fedf37360",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7cfed7d305d2efcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "21b4cda22b5cbc01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0aeac7019fc5a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "2211e74a9da32517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c291c55ebee8f79c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность"
+            }
+          },
+          {
+            "id": "109c66e6e2f7348a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность"
+            }
+          },
+          {
+            "id": "fab33d810e7cc917",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c1ec4a85cf038182",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "9e22d4a1b0235872",
+  "lastOpenFiles": [
+    "Первые шаги в IT, часть 1. Как я прошел испытательный срок системного администратора.md",
+    "Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность.md",
+    "У меня инфомания.md",
+    "assets/6ac780f0649e8e2497148d50edf432c3.gif",
+    "assets/Pasted image 20250123092522.png",
+    "assets/Pasted image 20250123092254.png",
+    "Научись останавливаться. 250 слов о книге Эссенциализм. Путь к простоте.md",
+    "Легкий способ настройки динамической маршрутизации в Ghost (с помощью тэгов).md",
+    "Создать cron в Linux.md",
+    "note9.md",
+    "Как скрыть заголовок поста для определенных тегов в ghost.md",
+    "Настройка forward proxy в Nginx c basic auth.md",
+    "Скрипт для получения и удаления записей в Cloudlfare.md",
+    "templates/new_post.md",
+    "index.md",
+    "templates",
+    "assets/image-8.png",
+    "assets/image.png",
+    "assets"
+  ]
+}
