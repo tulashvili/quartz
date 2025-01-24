@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Я плачу 400$ за комфорт.md",
+                "file": "computer_networks/Основы компьютерных сетей простыми словами, часть 1. Коммутация каналов и пакетов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Я плачу 400$ за комфорт"
+              "title": "Основы компьютерных сетей простыми словами, часть 1. Коммутация каналов и пакетов"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Я плачу 400$ за комфорт.md"
+                "file": "computer_networks/Основы компьютерных сетей простыми словами, часть 1. Коммутация каналов и пакетов.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Я плачу 400$ за комфорт"
+              "title": "Структура Основы компьютерных сетей простыми словами, часть 1. Коммутация каналов и пакетов"
             }
           }
         ],
@@ -179,6 +179,12 @@
   },
   "active": "44902713e4cc9444",
   "lastOpenFiles": [
+    "computer_networks/index.md",
+    "computer_networks/Основы компьютерных сетей простыми словами, часть 1. Коммутация каналов и пакетов.md",
+    "templates/new_index.md",
+    "index.md",
+    "computer_networks",
+    "note9.md",
     "Quartz. Решение проблемы с couldn't find remote ref v4.md",
     "Я плачу 400$ за комфорт.md",
     "Как скрыть заголовок поста для определенных тегов в ghost.md",
@@ -211,8 +217,6 @@
     "note3.md",
     "note2.md",
     "note10.md",
-    "note1.md",
-    "note9.md",
-    "index.md"
+    "note1.md"
   ]
 }
