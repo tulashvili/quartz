@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Прекратите использовать капчу!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Прекратите использовать капчу!"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Прекратите использовать капчу!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для index"
+              "title": "Обратные ссылки для Прекратите использовать капчу!"
             }
           },
           {
@@ -172,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Прекратите использовать капчу!.md"
               },
               "icon": "lucide-list",
-              "title": "Структура index"
+              "title": "Структура Прекратите использовать капчу!"
             }
           }
         ]
@@ -192,14 +192,25 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "44902713e4cc9444",
   "lastOpenFiles": [
+    "draft/Почему я хочу увидеть еще один фильм о Джейсоне Борне.md",
+    "draft/Почему мы не можем использовать php-fpm в Apache.md",
+    "draft/Поднимаем Saltstack с нескольким opensource ПО.md",
+    "draft/Планировщики в Linux.md",
+    "draft/Переменные окружения в unix-подобных системах.md",
+    "draft/Объемный чек-лист по выбору страны для релокации и ПМЖ.md",
+    "draft/Облачная архитектура.md",
+    "draft/Облачные вычисления.md",
+    "draft/Мои впечатления от поездки в Кобулети в июне 2024 года.md",
+    "draft/Мысли критически, иначе от тревоги вам не спастись.md",
+    "index.md",
     "Научись останавливаться. 250 слов о книге Эссенциализм. Путь к простоте.md",
     "computer_networks/Основы компьютерных сетей простыми словами, часть 1. Коммутация каналов и пакетов.md",
-    "index.md",
     "Недавние посты.md",
     "Я плачу 400$ за комфорт.md",
     "У меня инфомания.md",
@@ -214,17 +225,7 @@
     "draft/Out of memory (OOM).md",
     "draft/attachments/Pasted image 20231026062630.png",
     "draft/Cron.md",
-    "draft/Blog Post Template.md",
-    "draft/Bind9.md",
-    "draft/Backup дискогового раздела в Ubuntu.md",
-    "draft/At.md",
-    "draft/amd64-microcode.md",
-    "draft/Account Service.md",
-    "dictionary/Out of memory (OOM).md",
-    "dictionary/index.md",
-    "computer_networks/index.md",
     "dictionary",
-    "draft/Бест-практис траблшутинга Linux (теория).md",
     "draft/attachments/IMG_59C3FCCE8B37-1.jpeg",
     "draft/attachments/IMG_1616.png",
     "draft/attachments/IMG_1617.png",
