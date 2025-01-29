@@ -140,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Прекратите использовать капчу!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Прекратите использовать капчу!"
             }
           },
           {
@@ -185,10 +186,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Прекратите использовать капчу!.md"
               },
               "icon": "lucide-list",
-              "title": "Структура conflict-files-obsidian-git"
+              "title": "Структура Прекратите использовать капчу!"
             }
           }
         ]
@@ -209,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98898b6fedf37360",
+  "active": "030d5387bd6f4840",
   "lastOpenFiles": [
-    "Прекратите использовать капчу!.md",
     "conflict-files-obsidian-git.md",
+    "Прекратите использовать капчу!.md",
     "draft/Почему я хочу увидеть еще один фильм о Джейсоне Борне.md",
     "draft/Почему мы не можем использовать php-fpm в Apache.md",
     "draft/Поднимаем Saltstack с нескольким opensource ПО.md",
