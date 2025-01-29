@@ -56,12 +56,12 @@ on:
 
 Но результата это не дало.  
 Затем я пошел в свой аккаунт на github в репозиторий проекта, запустил [тестовый](https://docs.github.com/en/actions/writing-workflows/quickstart) Github Action - он отработал.  
-![Pasted image 20250122234252.png](app://3886ec6ee970b24754644abfea502a37ecca/Users/omartulashvili/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Thinking/attachments/Pasted%20image%2020250122234252.png?1737578572885)
+![[Pasted image 20250125115342.png]]
 
 Тогда я понял, что дело точно в названии веток. Создал ветку `v4` из `main`. Сделал рекоммит изменений в `deploy.yaml` - просто убрал пробел и тогда-то и увидел ошибку, из-за которой у меня возникает проблема:  
-![Pasted image 20250122234211.png](app://3886ec6ee970b24754644abfea502a37ecca/Users/omartulashvili/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Thinking/attachments/Pasted%20image%2020250122234211.png?1737578531461)
+![[Pasted image 20250125115454.png]]
 
 В [руководстве](![Pasted image 20250122234540.png](app://3886ec6ee970b24754644abfea502a37ecca/Users/omartulashvili/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Thinking/attachments/Pasted%20image%2020250122234540.png?1737578740425)) как раз сказано, что это может быть одной из проблем. Я удалил environment, запустил заново Github Action и тогда деплой отработал успешно!  
-![Pasted image 20250122234524.png](app://3886ec6ee970b24754644abfea502a37ecca/Users/omartulashvili/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Thinking/attachments/Pasted%20image%2020250122234524.png?1737578724460)  
-![Pasted image 20250122234806.png](app://3886ec6ee970b24754644abfea502a37ecca/Users/omartulashvili/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Thinking/attachments/Pasted%20image%2020250122234806.png?1737578886611)  
-![Pasted image 20250122234955.png](app://3886ec6ee970b24754644abfea502a37ecca/Users/omartulashvili/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Thinking/attachments/Pasted%20image%2020250122234955.png?1737578995207)
+![[Pasted image 20250125115517.png]]
+![[Pasted image 20250125115539.png]]
+![[Pasted image 20250125115553.png]]

@@ -1,5 +1,5 @@
 {
+  "attachmentFolderPath": "assets",
   "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "assets"
+  "readableLineLength": false
 }
