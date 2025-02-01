@@ -2,7 +2,7 @@
 title: Создать cron в Linux
 draft: false
 tags:
-  - tutorials/linux
+  - dictionary/linux
 date: 2025-01-14
 ---
 - Для начала нужно определиться с пользователем, под которым будет выполняться наш cron

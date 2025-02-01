@@ -6,7 +6,7 @@ draft: true
 created: 2024-06-19T12:50
 updated: 2024-11-26T13:12
 tags:
-  - web/nginx
+  - dictionary/web/nginx
 ---
 ```nginx
     server {

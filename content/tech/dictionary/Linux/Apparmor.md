@@ -3,7 +3,8 @@ title: Apparmor
 date: 2024-06-19
 description: 
 draft: false
-tags: 
+tags:
+  - dictionary/linux
 created: 2024-06-19T17:49
 updated: 2024-11-26T13:12
 ---
