@@ -24,21 +24,35 @@
             }
           },
           {
-            "id": "cb1af7d79f5fd273",
+            "id": "e3ada23d9cc37797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inspiration/apps/Supernotes.md",
+                "file": "tech/python/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supernotes"
+              "title": "Python"
+            }
+          },
+          {
+            "id": "0d6a17454f5629bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/javascript/Объекты в Javascript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Объекты в Javascript"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "грузи",
+                "query": "tag:#weekly_reports",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "f0aeac7019fc5a67",
@@ -100,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inspiration/apps/Supernotes.md",
+                "file": "non_tech/weekly_reports/Недельный отчет №2. 3 - 9 февраля 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Supernotes"
+              "title": "Обратные ссылки для Недельный отчет №2. 3 - 9 февраля 2025"
             }
           },
           {
@@ -146,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inspiration/apps/Supernotes.md"
+                "file": "tech/javascript/Объекты в Javascript.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Supernotes"
+              "title": "Структура Объекты в Javascript"
             }
           }
         ],
@@ -169,53 +184,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1af7d79f5fd273",
+  "active": "c1ec4a85cf038182",
   "lastOpenFiles": [
-    "Игры Blizzard.md",
-    "non_tech/Как подготовиться к отпуску и не остаться без денег.md",
+    "reports/Что я делаю сейчас.md",
+    "tech/javascript/Объекты в Javascript.md",
+    "tech/javascript/JavaScript.md",
+    "assets/Pasted image 20250209144056.png",
+    "assets/Pasted image 20250209144022.png",
+    "assets/Pasted image 20250209143903.png",
+    "assets/Pasted image 20250209143841.png",
+    "assets/Pasted image 20250209143806.png",
+    "tech/python/Python.md",
+    "assets/Pasted image 20250209143414.png",
+    "assets/Pasted image 20250209134928.png",
+    "assets/Pasted image 20250208155231.png",
+    "assets/Pasted image 20250208154850.png",
     "index.md",
-    "non_tech/Недельный отчет №1. 27 февраля 2025 - 2 февраля 2025.md",
-    "non_tech/Я плачу 400$ за комфорт.md",
-    "non_tech/Первые шаги в IT, часть 2. Как смена руководства повлияла на мою самостоятельность.md",
+    "tech/Дневник системного инженера № 1. Что значит ign при выполнении sudo apt-get install <packet>.md",
+    "assets/Pasted image 20250208151157.png",
+    "tech/javascript",
+    "tech/python",
+    "inspiration/Tim Harek.md",
+    "reports/weekly/Недельный отчет №2. 3 - 9 февраля 2025.md",
+    "non_tech/Первые шаги в IT, часть 1. Как я прошел испытательный срок системного администратора.md",
+    "reports/weekly/Недельный отчет №1. 27 января 2025 - 2 февраля 2025.md",
+    "inspiration/index.md",
+    "inspiration/daffin.ru.md",
     "inspiration/blog.lrvt.de.md",
-    "inspiration/apps/Supernotes.md",
+    "reports/weekly",
+    "Не носил Apple Watch неделю и вот, что понял.md",
+    "tech/network_fundamental/Основы компьютерных сетей простыми словами, часть 2. Модель OSI (ISO).md",
+    "tech/network_fundamental",
+    "tech/Как пересобрать nginx с новым модулем.md",
+    "non_tech/Скептическое отношение к проценту верных ответов на Stepik.md",
+    "Проблема самоопределения.md",
+    "Про ведение бюджета.md",
+    "tech/Как добавить домены сервера под управление сертификатам certman.md",
+    "tech/Настройка forward proxy в Nginx c basic auth с помощью модуля proxy_connect.md",
+    "templates/new_weekly_report.md",
+    "non_tech/Php идеально подходит для MVP-продукта.md",
+    "reports",
+    "Недавние посты.md",
+    "Без названия",
+    "inspiration/apps/Reflector.md",
     "inspiration/apps",
     "inspiration/people",
-    "assets/Pasted image 20250201170416.png",
-    "inspiration/Tyler Rilling.md",
-    "clippings/How Hacking Diablo Sparked My Lifelong Career in Programming - Underlost.md",
     "clippings",
-    "draft",
-    "inspiration/Кирилл Мокевнин.md",
-    "inspiration/Julia Evans.md",
-    "assets/Pasted image 20250201165243.png",
-    "inspiration/Tim Harek.md",
-    "inspiration/daffin.ru.md",
-    "inspiration/index.md",
-    "assets/Pasted image 20250201133451.png",
-    "inspiration",
-    "tech/Основы компьютерных сетей простыми словами, часть 1. Коммутация каналов и пакетов.md",
-    "tech/Quartz. Решение проблемы с couldn't find remote ref v4.md",
-    "tech/Настройка forward proxy в Nginx c basic auth.md",
-    "tech/Создать cron в Linux.md",
-    "tech/Ansible apt cache update failed.md",
-    "tech/Дневник сисопса № 1. Что значит ign при выполнении sudo apt-get install <packet>.md",
-    "tech/Как подключиться по ssh от root-пользователя.md",
-    "tech/dictionary/Saltstack/Saltstack.md",
-    "tech/dictionary/Saltstack/index.md",
-    "tech/dictionary/Php/Deployer.md",
-    "tech/dictionary/Nginx/Корневая директория Nginx.md",
-    "micro_til",
-    "tech/dictionary/Saltstack",
-    "career_way/troubleshooting",
-    "troubleshooting",
-    "career_way/first_steps",
-    "draft/attachments/Screenshot 2024-07-18 at 14.06.10.png",
-    "draft/attachments/IMG_59C3FCCE8B37-1.jpeg",
-    "draft/attachments/IMG_1617.png",
-    "draft/attachments/IMG_1616.png",
-    "draft/attachments/Screenshot 2024-07-03 at 13.21.55.png",
-    "draft/attachments/Screenshot 2024-07-03 at 13.20.49.png",
-    "draft/attachments/Screenshot 2024-07-03 at 12.56.41.png"
+    "draft"
   ]
 }

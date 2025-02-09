@@ -105,7 +105,7 @@ curl -x http://<proxy_server_ip>:8888 -U <login_htpaswd> http://google.com
 ```
 
 - Я получаю ошибку
-- - Это связано с тем, что у меня не установлен модуль `ngx_http_proxy_connect_module` (проверить с помощью `nginx -V`)
+- Это связано с тем, что у меня не установлен модуль `ngx_http_proxy_connect_module` (проверить с помощью `nginx -V`)
 
 ```
 tail -n 50 /var/log/nginx/nginx_proxy_debug.log
