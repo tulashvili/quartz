@@ -2,7 +2,7 @@
 title: Объекты в Javascript
 draft: false
 tags: 
-date: 2025-02-09
+date: 2025-02-06
 updated: 2025-02-09
 ---
 ## Общая информация
