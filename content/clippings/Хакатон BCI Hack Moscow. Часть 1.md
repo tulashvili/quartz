@@ -7,6 +7,8 @@ created:
 description: 
 tags:
   - clippings
+date: 2025-02-02T23:01
+updated: 2025-02-02T23:03
 ---
 Хакатон BCI Hack Moscow. Часть 1
 Много текста

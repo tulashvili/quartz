@@ -2,7 +2,8 @@
 title: 
 draft: true
 tags: 
-date:
+date: 2025-02-01T16:51
+updated: 2025-02-01T16:53
 ---
 https://jvns.ca/
 

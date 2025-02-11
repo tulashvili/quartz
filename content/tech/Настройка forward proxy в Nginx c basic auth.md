@@ -5,6 +5,7 @@ tags:
   - tutorials/web/nginx
   - tutorials/web/proxy
 date: 2025-01-16
+updated: 2025-02-06T17:31
 ---
 ## Nginx
 

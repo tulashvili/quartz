@@ -3,7 +3,7 @@ title: JavaScript
 draft: false
 tags: 
 date: 2025-02-03
-updated: 2025-02-09
+updated: 2025-02-09T14:43
 ---
 - курс - [https://www.youtube.com/watch?v=CxgOKJh4zWE](https://www.youtube.com/watch?v=CxgOKJh4zWE)
 - Встроен в браузер, поэтому можно код выполнять прямо в консоли браузера:  

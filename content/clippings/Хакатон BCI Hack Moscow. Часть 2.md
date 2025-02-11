@@ -7,6 +7,8 @@ created:
 description: 
 tags:
   - clippings
+date: 2025-02-02T23:03
+updated: 2025-02-02T23:04
 ---
 Хакатон BCI Hack Moscow. Часть 2
 Первая часть - тут (https://t.me/GoToTShaped/109)

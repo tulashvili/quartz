@@ -3,7 +3,8 @@ title:
 draft: true
 tags:
   - weekly_reports
-date:
+date: 2025-02-08T11:17
+updated: 2025-02-08T11:18
 ---
 ## Работа
 

@@ -4,7 +4,7 @@ date: 2024-06-19
 description: 
 draft: true
 created: 2024-06-19T12:50
-updated: 2024-11-26T13:12
+updated: 2025-02-01T13:08
 tags:
   - dictionary/web/nginx
 ---

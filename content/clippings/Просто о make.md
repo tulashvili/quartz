@@ -1,13 +1,15 @@
 ---
-title: "Просто о make"
-source: "https://habr.com/ru/articles/211751/"
+title: Просто о make
+source: https://habr.com/ru/articles/211751/
 author:
   - "[[Alex Balan]]"
 published: 2014-02-07
 created: 2025-02-06
-description: "Меня всегда привлекал минимализм. Идея о том, что одна вещь должна выполнять одну функцию, но при этом выполнять ее как можно лучше, вылилась в создание UNIX. И хотя UNIX давно уже нельзя назвать..."
+description: Меня всегда привлекал минимализм. Идея о том, что одна вещь должна выполнять одну функцию, но при этом выполнять ее как можно лучше, вылилась в создание UNIX. И хотя UNIX давно уже нельзя назвать...
 tags:
-  - "clippings"
+  - clippings
+date: 2025-02-06T17:12
+updated: 2025-02-06T17:12
 ---
 <svg class="tm-svg-img tm-svg-icon" height="24" width="24"><title>Время на прочтение</title><use xlink:href="/img/megazord-v28.7909a852..svg#clock"></use></svg>6 мин
 

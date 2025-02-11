@@ -7,6 +7,7 @@ tags:
   - coding/golang
   - inspiration/people
 date: 2025-02-01
+updated: 2025-02-08T14:53
 ---
 https://timharek.no/
 

@@ -1,13 +1,15 @@
 ---
-title: "How Hacking Diablo Sparked My Lifelong Career in Programming - Underlost"
-source: "https://underlost.net/writing/how-hacking-diablo-sparked-my-lifelong-career"
+title: How Hacking Diablo Sparked My Lifelong Career in Programming - Underlost
+source: https://underlost.net/writing/how-hacking-diablo-sparked-my-lifelong-career
 author:
   - "[[How Hacking Diablo Sparked My Lifelong Career in Programming - Underlost]]"
 published: 2021-03-05
 created: 2025-02-01
-description: "Underlost is Tyler Rilling, a Python web developer, UX designer, and marketing consultant, living in Seattle, Washington. Probably not an Undertale game."
+description: Underlost is Tyler Rilling, a Python web developer, UX designer, and marketing consultant, living in Seattle, Washington. Probably not an Undertale game.
 tags:
-  - "clippings"
+  - clippings
+date: 2025-02-01T17:00
+updated: 2025-02-01T17:00
 ---
 I’ve grown up on Blizzard games. Warcraft, Starcraft, and Diablo were some of the first PC games I've ever played as a kid. In fact, it was Diablo and the first incarnation of battle.net chat that got me into programming. Between the lack of any real internet security back then and the open-source examples of battle.net chat bots and numerous tutorials, it was a great way to get started programming.
 

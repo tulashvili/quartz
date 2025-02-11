@@ -3,6 +3,7 @@ title: "Reflector: Дублирование экрана между устрой
 draft: false
 tags: 
 date: 2025-02-07
+updated: 2025-02-07T17:20
 ---
 Сейчас смотрю [курс](https://www.youtube.com/watch?v=PhjHXeMNpp8) Богдана Стащука по сетям и увидел у него интересную программу - [Reflector](https://www.airsquirrels.com/reflector). Это программа, которая позволяет вывести экран любого устройства на Android, iOS на устройство под Windows, macOS, Linux и так далее - в общем поддерживает все популярные ОС.
 

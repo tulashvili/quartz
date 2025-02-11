@@ -5,6 +5,7 @@ tags:
   - tutorials/blog/quartz
   - tutorials/git
 date: 2025-01-22
+updated: 2025-01-25T11:55
 ---
 Я выполнил базовую настройку своего quartz:
 

@@ -4,6 +4,7 @@ draft: false
 tags:
   - tutorials/web/nginx
 date: 2025-02-06
+updated: 2025-02-08T11:31
 ---
 В ходе [[Настройка forward proxy в Nginx c basic auth с помощью модуля proxy_connect|настройки]] прокси мне понадобилось пересобрать, уже собранный ранее из исходников, nginx.
 В моем случае это был модуль `ngx_http_ssl_module`.
