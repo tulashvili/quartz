@@ -24,31 +24,17 @@
             }
           },
           {
-            "id": "75c4bcba11afed06",
+            "id": "5959fc239b61db63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "reports/daily/Лог системного инженера №1 — 14.02.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "a3ce65f77de28984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Лог системного инженера №1 — 14.02.2025"
             }
           }
         ],
@@ -83,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#troubleshooting",
+                "query": "Name or service not known",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,11 +80,13 @@
               "title": "Поиск"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 261.50271224975586
+    "width": 434.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "f0aeac7019fc5a67",
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "reports/daily/Лог системного инженера №1 — 14.02.2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для index"
+              "title": "Обратные ссылки для Лог системного инженера №1 — 14.02.2025"
             }
           },
           {
@@ -160,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "reports/daily/Лог системного инженера №1 — 14.02.2025.md"
               },
               "icon": "lucide-list",
-              "title": "Структура index"
+              "title": "Структура Лог системного инженера №1 — 14.02.2025"
             }
           }
         ],
@@ -184,29 +172,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75c4bcba11afed06",
+  "active": "5959fc239b61db63",
   "lastOpenFiles": [
+    "tech/Траблшутинг №3. Certman - Name or service not known.md",
+    "reports/daily/Лог системного инженера №1 — 14.02.2025.md",
+    "tech/Как добавить домены сервера под управление сертификатам certman.md",
+    "tech/dictionary/SSL/Certman.md",
+    "tech/dictionary/SSL",
+    "reports/weekly/Недельный отчет №2. 10 - 16 февраля 2025.md",
+    "index.md",
+    "reports/weekly/Недельный отчет №2. 3 - 9 февраля 2025.md",
+    "templates/new_clipping.md",
+    "templates/new_daily_report.md",
+    "templates/new_post.md",
+    "templates/new_index.md",
+    "templates/new_weekly_report.md",
+    "reports/weekly/Недельный отчет №1. 27 января 2025 - 2 февраля 2025.md",
+    "reports/daily",
+    "tech/Траблшутинг № 2. The Salt Master has cached.md",
+    "tech/Траблшутинг № 1. Что значит ign при выполнении sudo apt-get install <packet>.md",
+    "Обновление EOL Debian.md",
+    "про ai и медицину.md",
+    "про машину.md",
     "Игры Blizzard.md",
     "Я выбираю себе смартфон.md",
     "Сейчас стоит откладывать большие покупки.md",
     "Развитие в карьере.md",
     "Проблема самоопределения.md",
     "Про ведение бюджета.md",
-    "tech/Дневник системного инженера № 1. Что значит ign при выполнении sudo apt-get install <packet>.md",
-    "tech/Дневник системного инженера № 2. The Salt Master has cached.md",
-    "index.md",
     "reports/Что я делаю сейчас.md",
     "tech/Как изменить версию salt-minion.md",
-    "Недавние посты (тут пусто).md",
-    "Без названия.md",
-    "templates/new_post.md",
-    "inspiration/front.md",
-    "reports/weekly/Недельный отчет №2. 3 - 9 февраля 2025.md",
-    "reports/weekly/Недельный отчет №1. 27 января 2025 - 2 февраля 2025.md",
-    "tech/javascript/Объекты в Javascript.md",
-    "tech/python/Python.md",
-    "non_tech/Не носил Apple Watch неделю и вот, что понял.md",
-    "tech/javascript/JavaScript.md",
     "assets/Pasted image 20250209144056.png",
     "assets/Pasted image 20250209144022.png",
     "assets/Pasted image 20250209143903.png",
@@ -219,18 +214,11 @@
     "assets/Pasted image 20250208151157.png",
     "tech/javascript",
     "tech/python",
-    "inspiration/Tim Harek.md",
-    "non_tech/Первые шаги в IT, часть 1. Как я прошел испытательный срок системного администратора.md",
-    "inspiration/index.md",
-    "inspiration/daffin.ru.md",
-    "inspiration/blog.lrvt.de.md",
     "reports/weekly",
     "tech/network_fundamental",
     "reports",
     "Без названия",
     "inspiration/apps",
-    "inspiration/people",
-    "clippings",
-    "draft"
+    "inspiration/people"
   ]
 }
